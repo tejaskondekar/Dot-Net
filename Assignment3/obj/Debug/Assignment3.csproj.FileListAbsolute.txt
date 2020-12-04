@@ -1,0 +1,7 @@
+E:\Programming\Dot n\Day4\Assignment3\bin\Debug\Assignment3.exe.config
+E:\Programming\Dot n\Day4\Assignment3\bin\Debug\Assignment3.exe
+E:\Programming\Dot n\Day4\Assignment3\bin\Debug\Assignment3.pdb
+E:\Programming\Dot n\Day4\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+E:\Programming\Dot n\Day4\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+E:\Programming\Dot n\Day4\Assignment3\obj\Debug\Assignment3.exe
+E:\Programming\Dot n\Day4\Assignment3\obj\Debug\Assignment3.pdb
